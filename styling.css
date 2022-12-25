@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.header {
+    min-height: 100vh;
+    width: 100%;
+    background-image:url('https://img.freepik.com/free-photo/indian-woman-working-laptop-street-cafe-wearing-stylish-smart-clothes-jacket-glasses_1157-48457.jpg?w=900&t=st=1665323997~exp=1665324597~hmac=63f6ca5b4593a7496d0cb0db232a7e28d2e32ae0205bbef1d18bb4c3ccdfbe9d');
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.navbar-brand{
+    color: white;
+}
+.navbar-brand img{
+   color: aliceblue;
+}
+.header button{
+    color: white;
+    font-size: 14px;
+    border-color: white;
+    border-radius: 24px;
+}
